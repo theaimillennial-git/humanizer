@@ -1,0 +1,12 @@
+   {
+     "name": "humanizer",
+     "version": "1.0.0",
+     "description": "Rewrite text so it reads like a person wrote it by removing common AI writing tells: AI vocabulary, rule-of-three lists, 'not just X but Y', throat-clearing intros, restated conclusions, em-dash and bold overuse.",
+     "author": {
+       "name": "theaimillennial-git"
+     },
+     "homepage": "https://github.com/theaimillennial-git/humanizer",
+     "repository": "https://github.com/theaimillennial-git/humanizer",
+     "license": "MIT",
+     "keywords": ["writing", "humanize", "editing", "copywriting", "skill"]
+   }
