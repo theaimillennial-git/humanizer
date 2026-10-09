@@ -1,0 +1,19 @@
+   {
+     "name": "theaimillennial",
+     "owner": {
+       "name": "theaimillennial-git"
+     },
+     "metadata": {
+       "description": "Claude skills by The AI Millennial"
+     },
+     "plugins": [
+       {
+         "name": "humanizer",
+         "source": "./plugins/humanizer",
+         "description": "Rewrite text so it reads like a person wrote it by removing common AI writing tells.",
+         "version": "1.0.0",
+         "category": "writing",
+         "tags": ["writing", "humanize", "editing", "ai-detection", "copywriting"]
+       }
+     ]
+   }
